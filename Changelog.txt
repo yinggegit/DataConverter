@@ -1,0 +1,13 @@
+Name:zhaoying
+Date:2019-01-10
+Modify:
+     1.Fixed some bug
+     2.Add donation entry.
+     3.Compile As Release
+     4.Version V2.2.
+
+修改记录：
+     1.修正部分Bug
+     2.增加捐助入口。
+     3.Release版本发布。
+     4.版本修改为V2.2

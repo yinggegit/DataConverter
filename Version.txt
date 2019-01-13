@@ -1,0 +1,3 @@
+[VERSION]
+ReleaseData=2019/01/12 2019-01-12
+VersionNum=V2.2
