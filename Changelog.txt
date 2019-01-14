@@ -1,9 +1,11 @@
-Name:zhaoying
-Date:2019-01-12
+Name:yingge
+Date:2019-01-15
 Modify:
-     1.Switch repository to yinggegit
-     2.Release Data 2019-01-12
+     1.Fixed Base64/Hex->String Bug
+     2.Status Bar Add Data Type Button
+     3.Release Data 2019-01-15
 
 修改记录：
-     1.切换到yinggegit
-     2.发布日期修改为 2019-01-12
+     1.修正Base64/Hex->String Bug
+     2.状态栏增加数据类型指示按钮。
+     3.发布日期修改为 2019-01-15
