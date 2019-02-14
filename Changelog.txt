@@ -1,9 +1,11 @@
 Name:yingge
-Date:2019-01-15
+Date:2019-02-14
 Modify:
-     1.Fixed Theme Bug
-     2.Release Data 2019-01-15
+     1.Fixed Base64 Chinese String Bug
+     2.Optimize InternetOpen parameter
+     2.Release Data 2019-012-14
 
 修改记录：
-     1.修正主题错误
-     2.发布日期修改为 2019-01-15
+     1.修正Base64 汉字处理错误。
+     2.优化 InternetOpen 参数
+     3.发布日期修改为 2019-012-14
