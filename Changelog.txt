@@ -1,11 +1,11 @@
 Name:yingge
-Date:2019-02-14
+Date:2019-02-16
 Modify:
      1.Fixed Base64 Chinese String Bug
-     2.Optimize InternetOpen parameter
-     2.Release Data 2019-012-14
+     2.HexToString Try Uniocde.
+     3.Release Data 2019-012-16
 
 修改记录：
      1.修正Base64 汉字处理错误。
-     2.优化 InternetOpen 参数
-     3.发布日期修改为 2019-012-14
+     2.HexToString 尝试多种转换。
+     3.发布日期修改为 2019-012-16
