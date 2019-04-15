@@ -1,11 +1,9 @@
 Name:yingge
-Date:2019-04-13
+Date:2019-04-16
 Modify:
-     1.Enable OPeration Msg Control.
-     2.Enable Try Output More Disable.
-     3.Release Data 2019-04-13.
+     1.BinFile Load File As *.bin
+     2.Release Data 2019-04-16.
 
 修改记录：
-     1.允许关闭操作信息。
-     2.允许关闭更多转换尝试。
-     3.发布日期修改为 2019-04-13。
+     1.BinFile载入 加载文件认为是bin格式。
+     2.发布日期修改为 2019-04-16。
