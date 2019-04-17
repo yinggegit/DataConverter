@@ -1,11 +1,9 @@
 Name:yingge
-Date:2019-04-16
+Date:2019-04-18
 Modify:
-     1.BinFile Load File As *.bin
-     2.Try Delete Old And OldDataConverter.exe
-     3.Release Data 2019-04-16.
+     1.Fixed Ctrl+V Paste To Right Column。
+     2.Release Data 2019-04-18.
 
 修改记录：
-     1.BinFile载入 加载文件认为是bin格式。
-     2.尝试删除 Old 和 OldDataConverter.exe
-     3.发布日期修改为 2019-04-16。
+     1.修复Ctrl+V粘贴到右侧的问题。
+     3.发布日期修改为 2019-04-18。
