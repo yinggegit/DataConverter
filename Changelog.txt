@@ -1,9 +1,11 @@
 Name:yingge
-Date:2019-04-18
+Date:2019-08-18
 Modify:
-     1.Fixed Ctrl+V Paste To Right Column。
-     2.Release Data 2019-04-18.
+     1.Fix Base64 1B Enc Bug。
+     2.Lunch A Thread Rather Than UI Block To Update Check。
+     3.Release Data 2019-08-18.
 
 修改记录：
-     1.修复Ctrl+V粘贴到右侧的问题。
-     3.发布日期修改为 2019-04-18。
+     1.修复Base64 1B 计算Bug。
+     2.用线程检查版本升级。
+     3.发布日期修改为 2019-08-18。
