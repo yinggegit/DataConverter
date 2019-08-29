@@ -1,11 +1,14 @@
 Name:yingge
-Date:2019-08-18
+
+ReleaseData=2019-08-30
+VersionNum=V2.9
+
 Modify:
-     1.Fix Base64 1B Enc Bug。
-     2.Lunch A Thread Rather Than UI Block To Update Check。
-     3.Release Data 2019-08-18.
+     1.Fix After Crc32 Calc Free Twice Times Bug.
+     2.Automatically Adapt To System DPI.
 
 修改记录：
-     1.修复Base64 1B 计算Bug。
-     2.用线程检查版本升级。
-     3.发布日期修改为 2019-08-18。
+     1.修复Crc32 释放两次空间Bug。
+     2.自适应系统DPI。
+ 
+
