@@ -9,6 +9,7 @@ Modify:
 	 3.UI size auto saving.
 	 4.Fix some bug.
 	 5.More details will feel in using.
+	 6.2020 First Rlease.
 	 
 
 修改记录：
@@ -17,5 +18,6 @@ Modify:
 	 3.界面尺寸自动保存.
 	 4.修复了几个隐藏Bug.
 	 5.更多修改需细细体会.
+	 6.2020元旦纪念版
  
 
