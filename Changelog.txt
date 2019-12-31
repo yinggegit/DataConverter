@@ -7,17 +7,19 @@ Modify:
 	 1.Important update, add mainstream algorithm page.
 	 2.Optimized software running speed.
 	 3.UI size auto saving.
-	 4.Fix some bug.
-	 5.More details will feel in using.
-	 6.2020 First Rlease.
+	 4.MAC output 8B/16B
+	 5.Fix some bug.
+	 6.More details will feel in using.
+	 7.2020 First Rlease.
 	 
 
 修改记录：
 	 1.重大更新，增加了F3主流算法Page.
 	 2.优化了软件运行速度.
 	 3.界面尺寸自动保存.
-	 4.修复了几个隐藏Bug.
-	 5.更多修改需细细体会.
-	 6.2020元旦纪念版
+	 4.MAC输出8B/16B
+	 5.修复了几个隐藏Bug.
+	 6.更多修改需细细体会.
+	 7.2020元旦纪念版
  
 
