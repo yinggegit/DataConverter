@@ -1,4 +1,4 @@
-# Dataconverter
+# DataConverter
 
 # Introduce
 
@@ -6,18 +6,18 @@
 
 [My CSDN Blog] 
 
-[![Build Status](https://github.com/yinggegit/DataConverter/)](https://github.com/yinggegit/DataConverter/blob/master/DataConverter.exe)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-![Dataconverter](https://img-blog.csdnimg.cn/20191231204130243.BMP?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lpbmdnZWdlZ2U=,size_16,color_FFFFFF,t_70 "Dataconverter")
+![DataConverter](https://img-blog.csdnimg.cn/20191231204130243.BMP?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lpbmdnZWdlZ2U=,size_16,color_FFFFFF,t_70 "DataConverter")
 
-**Dataconverter  是一款强大的数据处理和算法工具**
+**DataConverter  是一款强大的数据处理和算法工具**
 
   - 满足C、Java ，Python程序员的编程中常见的数据处理需求，有效提升Coding效率。
   - 基于可靠算法套件，支持金融，网络安全，信息安全等常见密码学算法，特别支持中国国密算法SM2，SM3，SM4.
   - 精心调整过界面布局，支持多种主题和字体，支持多种分辨率显示，视觉体验佳。
 -----
-Dataconverter is a powerful data processing and algorithmic tool 
+DataConverter is a powerful data processing and algorithmic tool 
   - Meet the common data processing needs of C, Java and python programmers in daily programming, and effectively improve work efficiency.
   - Based on reliable algorithm suite, support common cryptography algorithms such as finance, network security and information security, especially support China's national security algorithms SM2, SM3 and SM4.
   - The layout of the interface has been carefully adjusted to support more than ten themes and fonts, support a variety of resolutions, and have a good visual experience.
@@ -104,7 +104,7 @@ Dataconverter is a powerful data processing and algorithmic tool
   - Padding supports filling methods such as PKCS7, PKCSv1, ISO7816-4, X.923 etc.
   - Big number, support add, Dec, sum, Mul, div, mod, XOR, exp, RSA, hex->Dec, Dec->hex, etc.
 
-![Dataconverter](https://img-blog.csdnimg.cn/20191231204211657.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lpbmdnZWdlZ2U=,size_16,color_FFFFFF,t_70 "Dataconverter")
+![DataConverter](https://img-blog.csdnimg.cn/20191231204211657.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lpbmdnZWdlZ2U=,size_16,color_FFFFFF,t_70 "DataConverter")
 
 ## 3.Configuration 配置
   - 支持多种主题，总有一款适合你
