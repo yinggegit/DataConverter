@@ -9,7 +9,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-![DataConverter](https://img-blog.csdnimg.cn/20191231204130243.BMP?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lpbmdnZWdlZ2U=,size_16,color_FFFFFF,t_70 "DataConverter")
+![DataConverter](https://img-blog.csdnimg.cn/20200104125904238.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lpbmdnZWdlZ2U=,size_16,color_FFFFFF,t_70 "DataConverter")
 
 **DataConverter  是一款强大的数据处理和算法工具**
 
