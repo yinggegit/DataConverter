@@ -144,10 +144,10 @@ DataConverter can use below tools to work properly:
 
 ### Plugins Open Source
 
-| OpenSource | README |
+| OpenSource | Links |
 | ------ | ------ |
-| Mbedtls | [https://github.com/ARMmbed/mbedtls][PlDb] |
-| Mbedtls | [https://github.com/ARMmbed/mbedtls][PlDb] |
+| WeiboSpider | [https://github.com/SpiderClub/weibospider][PlDb] |
+| monitor | [https://github.com/seefan/monitor][PlDh] |
 
 
 ### Development
@@ -185,5 +185,5 @@ MIT
    [HashCalc.exe]: <http://www.slavasoft.com/hashcalc/>
    [CrytographyLab.exe]: <http://www.zhangluduo.com/article/d0fe0bbc/>
    [My CSDN Blog]: <https://blog.csdn.net/yinggegege/article/details/8789589>
-   [PlDb]: <https://github.com/ARMmbed/mbedtls>
-   [PlGh]: <https://github.com/zhangke5959/gmalg>
+   [PlDb]: <https://github.com/SpiderClub/weibospider>
+   [PlDh]: <https://github.com/seefan/monitor>
