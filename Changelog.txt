@@ -1,25 +1,23 @@
 Name:yingge
 
-ReleaseData=2020-01-01
-VersionNum=V3.0
+ReleaseData=2020-01-12
+VersionNum=V3.1
 
 Modify:
-	 1.Important update, add mainstream algorithm page.
-	 2.Optimized software running speed.
-	 3.UI size auto saving.
-	 4.MAC output 8B/16B
-	 5.Fix some bug.
-	 6.More details will feel in using.
-	 7.2020 First Rlease.
-	 
+	 1.Automatic adapt PC DPI
+	 2.Remove not commonly used theme
+	 3.Adjustment MAC page
+	 4.Output information adjustment
+	 5.Pack exe file
+	 6.Fixed some bugs
+
 
 修改记录：
-	 1.重大更新，增加了F3主流算法Page.
-	 2.优化了软件运行速度.
-	 3.界面尺寸自动保存.
-	 4.MAC输出8B/16B
-	 5.修复了几个隐藏Bug.
-	 6.更多修改需细细体会.
-	 7.2020元旦纪念版
- 
+	 1.自动适配电脑DPI
+	 2.删除几个不常用的主题
+	 3.调整MAC算法
+	 4.输出信息调整
+	 5.使用压缩打包
+	 6.修复了几个隐藏Bug.
+
 
