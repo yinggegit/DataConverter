@@ -1,6 +1,6 @@
 Name:yingge
 
-ReleaseData=2020-01-12
+ReleaseData=2020-01-16
 VersionNum=V3.1
 
 Modify:
@@ -8,8 +8,7 @@ Modify:
 	 2.Remove not commonly used theme
 	 3.Adjustment MAC page
 	 4.Output information adjustment
-	 5.Pack exe file
-	 6.Fixed some bugs
+	 5.Fixed some bugs
 
 
 修改记录：
@@ -17,7 +16,6 @@ Modify:
 	 2.删除几个不常用的主题
 	 3.调整MAC算法
 	 4.输出信息调整
-	 5.使用压缩打包
-	 6.修复了几个隐藏Bug.
+	 5.修复了几个隐藏Bug.
 
 
