@@ -1,7 +1,7 @@
 Name:yingge
 
 ReleaseData=2020-01-16
-VersionNum=V3.1
+VersionNum=V3.2
 
 Modify:
 	 1.Automatic adapt PC DPI
@@ -9,7 +9,7 @@ Modify:
 	 3.Adjustment MAC page
 	 4.Output information adjustment
 	 5.Fixed some bugs
-
+     6.Add homepage URL
 
 修改记录：
 	 1.自动适配电脑DPI
@@ -17,5 +17,6 @@ Modify:
 	 3.调整MAC算法
 	 4.输出信息调整
 	 5.修复了几个隐藏Bug.
+	 6.增加 homepage URL
 
 
