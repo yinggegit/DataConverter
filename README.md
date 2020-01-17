@@ -22,6 +22,12 @@ DataConverter is a powerful data processing and algorithmic tool
   - Based on reliable algorithm suite, support common cryptography algorithms such as finance, network security and information security, especially support China's national security algorithms SM2, SM3 and SM4.
   - The layout of the interface has been carefully adjusted to support more than ten themes and fonts, support a variety of resolutions, and have a good visual experience.
 
+## Donation Access：
+
+[![Donation](https://img-blog.csdnimg.cn/20190223201040843.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lpbmdnZWdlZ2U=,size_16,color_FFFFFF,t_70)](https://blog.csdn.net/yinggegege/article/details/87895893)
+
+
+
 # Features
 ## 1.DATA Format  数据格式化
   - 支持 English/ 中文 / 符号极简 3种语言界面。
@@ -49,7 +55,7 @@ DataConverter is a powerful data processing and algorithmic tool
   - 支持 转换后的数据保存 bin 文件。
   - 支持 拖入 扩展名为 txt  bin 数据文件，pem der cert 的x.509格式文件自动识别。
 -------
-  - English / Chinese / symbol minimalism interfaces are supported.
+  - English / Chinese / symbol minimalism UI are supported.
   - Data Custom byte wrap alignment.
   - Add / remove spaces, add / remove 0x
   - Format as \ x data string
@@ -78,7 +84,7 @@ DataConverter is a powerful data processing and algorithmic tool
   - DES 支持DES、TDES128bits, TDES192bits运算，支持ECB，CBC，KCV等模式
   - SM4 支持 ECB、CBC、KCV模式
   - MAC支持 DESMAC、CMAC、HMAC、AES MAC、 SM3-4MAC等
-  - 其中 DESMAC 支持 X9.9、X9.19、 EMV、 CUP、 XOR等多种模式
+  - 其中 DESMAC 支持 X9.9、X9.19、 EMV、 CUP(China Union Pay)、 XOR等多种模式
   - CMAC 支持  TDES2Key， TDES3Key， AES128， AES192， AES256等
   - HMAC 支持  SHA1， SHA256， SHA384， SHA512， MD5等
   - AES MAC 支持 CBC 和CUP
@@ -93,7 +99,7 @@ DataConverter is a powerful data processing and algorithmic tool
   - Des supports DES, TDES128, 192bits, ECB, CBC, KCV etc.
   - SM4 supports ECB, CBC and KCV modes
   - Mac supports DES MAC, CMAC, HMAC, AES MAC, SM3-4 MAC, etc.
-  - Desmac supports X9.9, X9.19, EMV, CUP, XOR etc.
+  - Desmac supports X9.9, X9.19, EMV, CUP(China Union Pay), XOR etc.
   - CMAC supports TDES2key, TDES3key, AES128, AES192, AES256, etc.
   - HMAC supports SHA1, SHA256, SHA384, SHA512, MD5, etc.
   - AES MAC supports CBC and CUP.
@@ -152,7 +158,7 @@ DataConverter can use below tools to work properly:
 
 ### Development
 
-***C++ Builder CX 10***
+***C++ Builder 10***
 
 First:
 ```sh
@@ -176,9 +182,6 @@ MIT
 > If you are willing to provide financial assistance to support the author in improving the software, please scan QR code to donation and please leave message!
 > Thanks and enjoy it.
 
-## Donation Access：
-
-[![Donation](https://img-blog.csdnimg.cn/20190223201040843.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lpbmdnZWdlZ2U=,size_16,color_FFFFFF,t_70)](https://blog.csdn.net/yinggegege/article/details/87895893)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 

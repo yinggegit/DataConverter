@@ -1,6 +1,6 @@
 Name:yingge
 
-ReleaseData=2020-01-16
+ReleaseData=2020-01-17
 VersionNum=V3.2
 
 Modify:
@@ -9,7 +9,8 @@ Modify:
 	 3.Adjustment MAC page
 	 4.Output information adjustment
 	 5.Fixed some bugs
-     6.Add homepage URL
+	 6.Add homepage URL
+	 7.Use compression algorithm
 
 修改记录：
 	 1.自动适配电脑DPI
@@ -18,5 +19,5 @@ Modify:
 	 4.输出信息调整
 	 5.修复了几个隐藏Bug.
 	 6.增加 homepage URL
-
+	 7.使用压缩算法减小体积
 
