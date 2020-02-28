@@ -1,23 +1,15 @@
 Name:yingge
 
-ReleaseData=2020-01-17
-VersionNum=V3.2
+ReleaseData=2020-02-28
+VersionNum=V3.3
 
 Modify:
-	 1.Automatic adapt PC DPI
-	 2.Remove not commonly used theme
-	 3.Adjustment MAC page
-	 4.Output information adjustment
-	 5.Fixed some bugs
-	 6.Add homepage URL
-	 7.Use compression algorithm
+	 1.Full Unicode support
+	 2.Add JSON format parsing
 
 修改记录：
-	 1.自动适配电脑DPI
-	 2.删除几个不常用的主题
-	 3.调整MAC算法
-	 4.输出信息调整
-	 5.修复了几个隐藏Bug.
-	 6.增加 homepage URL
-	 7.使用压缩算法减小体积
+	 1.增加JSON格式解析
+	 2.完全支持Unicode
+
+
 
