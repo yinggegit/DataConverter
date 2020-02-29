@@ -1,18 +1,18 @@
-Name:yingge
+ï»¿Name:yingge
 
-ReleaseData=2020-02-28
+ReleaseData=2020-02-29
 VersionNum=V3.3
 
 Modify:
 	 1.Full Unicode support
-	 2.Add JSON format parsing
+	 2.Add JSON format parse
 	 3.Fixed Bugs
+	 4.Improving efficiency 
 
-
-ĞŞ¸Ä¼ÇÂ¼£º
-	 1.Ôö¼ÓJSON¸ñÊ½½âÎö
-	 2.ÍêÈ«Ö§³ÖUnicode
-	 3.ĞŞ¸´²¿·ÖBug
-	 
+ä¿®æ”¹è®°å½•ï¼š
+	 1.å¢åŠ JSONæ ¼å¼è§£æ
+	 2.å®Œå…¨æ”¯æŒUnicode
+	 3.ä¿®å¤éƒ¨åˆ†Bug
+	 4.æç¤ºæ•ˆç‡
 
 
