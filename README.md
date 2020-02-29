@@ -54,6 +54,7 @@ DataConverter is a powerful data processing and algorithmic tool
   - 支持 转换后的数据保存 txt 文件。
   - 支持 转换后的数据保存 bin 文件。
   - 支持 拖入 扩展名为 txt  bin 数据文件，pem der cert 的x.509格式文件自动识别。
+  - 支持 JSON 缩进格式化，支持JSON 按String格式去空格变成无空格字符串。
 -------
   - English / Chinese / symbol minimalism UI are supported.
   - Data Custom byte wrap alignment.
@@ -78,7 +79,7 @@ DataConverter is a powerful data processing and algorithmic tool
   - Support converted data save to a .txt file.
   - Support converted data save to a .bin file.
   - Support dragging data file with extension of .txt or .bin, and automatic recognition of x.509 file from .pem .der .cert.
-
+  - Support JSON indent format, and JSON string format to remove space into no space string
 ## 2.Algorithm 算法
   - AES 支持AES128，AES192，AES256 运算，支持ECB，CBC，CFB，OFB，KCV等模式
   - DES 支持DES、TDES128bits, TDES192bits运算，支持ECB，CBC，KCV等模式
