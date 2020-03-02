@@ -1,6 +1,6 @@
 ﻿Name:yingge
 
-ReleaseData=2020-02-29
+ReleaseData=2020-03-03
 VersionNum=V3.3
 
 Modify:
@@ -8,11 +8,13 @@ Modify:
 	 2.Add JSON format parse
 	 3.Fixed Bugs
 	 4.Improving efficiency 
+	 5.Update Check interval more than 30 days 
 
 修改记录：
 	 1.增加JSON格式解析
 	 2.完全支持Unicode
 	 3.修复部分Bug
 	 4.提示效率
+	 5.检查更新改为30天一次
 
 
