@@ -1,4 +1,4 @@
-﻿Name:yingge
+Name:yingge
 
 ReleaseData=2020-03-03
 VersionNum=V3.3
@@ -6,15 +6,15 @@ VersionNum=V3.3
 Modify:
 	 1.Full Unicode support
 	 2.Add JSON format parse
-	 3.Fixed Bugs
-	 4.Improving efficiency 
-	 5.Update Check interval more than 30 days 
+	 3.Improving efficiency 
+	 4.Update Check interval more than 30 days 
+	 5.Fixed Bugs 
 
 修改记录：
 	 1.增加JSON格式解析
 	 2.完全支持Unicode
-	 3.修复部分Bug
-	 4.提示效率
-	 5.检查更新改为30天一次
+	 3.提示效率
+	 4.检查更新改为30天一次
+	 5.修复部分Bug
 
 
