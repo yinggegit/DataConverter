@@ -10,11 +10,11 @@ Modify:
 	 4.Update Check interval more than 30 days 
 	 5.Fixed Bugs 
 
-修改记录：
-	 1.增加JSON格式解析
-	 2.完全支持Unicode
-	 3.提示效率
-	 4.检查更新改为30天一次
-	 5.修复部分Bug
+�޸ļ�¼��
+	 1.����JSON��ʽ����
+	 2.��ȫ֧��Unicode
+	 3.��ʾЧ��
+	 4.�����¸�Ϊ30��һ��
+	 5.�޸�����Bug
 
 
