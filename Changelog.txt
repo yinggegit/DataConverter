@@ -1,20 +1,14 @@
 Name:yingge
 
-ReleaseData=2020-03-03
-VersionNum=V3.3
+ReleaseData=2020-05-10
+VersionNum=V3.4
 
 Modify:
-	 1.Full Unicode support
-	 2.Add JSON format parse
-	 3.Improving efficiency 
-	 4.Update Check interval more than 30 days 
-	 5.Fixed Bugs 
+	 1.Add Bit Map Page
+	 2.Fix Negative Number Dec To Hex Bug
 
 修改记录：
-	 1.增加JSON格式解析
-	 2.完全支持Unicode
-	 3.提示效率
-	 4.检查更新改为30天一次
-	 5.修复部分Bug
+	 1.增加Bit Map功能
+	 2.修复负数DecToHex转换Bug
 
 

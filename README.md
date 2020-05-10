@@ -93,8 +93,9 @@ DataConverter is a powerful data processing and algorithmic tool
   - RSA (512-8192bits) PKCSV2， PKCSV1， Nopadding填充加解密， 可生成RSAKey， 签名和验签支持多种Hash算法。
   - ECDSA 支持SECP192-512，BP256-512，包括Bitcoin使用的SECP256K1,等数十种主流曲线，主流Hash算法的签名和验签
   - SM2  中国国家密码指定的ECC曲线，标准 加密、解密、签名、验签工具， 加解密同时 C1|C2|C3 和 C1|C3|C2 两种格式。
-  - Padding 支持PKCS7，PKCSV1 ，ISO7816-4, X.923, 右边补零，左边补零等填充方式，生成指定字节的填充值
   - Big Number，支持 Add、Dec、Sum、Mul、Div、Mod、Xor、Exp、RSA、Hex->Dec、Dec->Hex等
+  - Bit Map 支持32bits, 64bits, MSB, LSB, Display, Generate, Hex, Dec(Uint,int)
+    - Padding 支持PKCS7，PKCSV1 ，ISO7816-4, X.923, 右边补零，左边补零等填充方式，生成指定字节的填充值
   -------
   - AES supports AES128, AES192, AES256 bits operation, ECB, CBC, CFB, OFB, KCV etc.
   - Des supports DES, TDES128, 192bits, ECB, CBC, KCV etc.
@@ -108,9 +109,10 @@ DataConverter is a powerful data processing and algorithmic tool
   - RSA (512-8192bits) PKCSv2, PKCSv1, padding and no-padding encryption and decryption can generate rsa key. Signature and verification support a variety of hash algorithms.
   - ECDSA supports more than ten of common curves include BitCoin used SECP256K1, signature and verification of common used hash algorithm.
   - SM2 is an ECC curve specified by China's National Code Authority use to  encryption, decryption, signature, signature verification tools, encryption and decryption at the same time, C1|C2|C3 and C1|C3|C2 formats.
+  - Big Number, support add, Dec, sum, Mul, div, mod, XOR, exp, RSA, hex->Dec, Dec->hex, etc.
+  - Bit Map support 32bits, 64bits, MSB, LSB, Display, Generate, Hex, Dec(Uint,int)
   - Padding supports filling methods such as PKCS7, PKCSv1, ISO7816-4, X.923 etc.
-  - Big number, support add, Dec, sum, Mul, div, mod, XOR, exp, RSA, hex->Dec, Dec->hex, etc.
-
+  
 ![DataConverter](https://img-blog.csdnimg.cn/20191231204211657.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lpbmdnZWdlZ2U=,size_16,color_FFFFFF,t_70 "DataConverter")
 
 ## 3.Configuration 配置
