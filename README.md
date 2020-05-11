@@ -95,7 +95,7 @@ DataConverter is a powerful data processing and algorithmic tool
   - SM2  中国国家密码指定的ECC曲线，标准 加密、解密、签名、验签工具， 加解密同时 C1|C2|C3 和 C1|C3|C2 两种格式。
   - Big Number，支持 Add、Dec、Sum、Mul、Div、Mod、Xor、Exp、RSA、Hex->Dec、Dec->Hex等
   - Bit Map 支持32bits, 64bits, MSB, LSB, Display, Generate, Hex, Dec(Uint,int)
-    - Padding 支持PKCS7，PKCSV1 ，ISO7816-4, X.923, 右边补零，左边补零等填充方式，生成指定字节的填充值
+  - Padding 支持PKCS7，PKCSV1 ，ISO7816-4, X.923, 右边补零，左边补零等填充方式，生成指定字节的填充值
   -------
   - AES supports AES128, AES192, AES256 bits operation, ECB, CBC, CFB, OFB, KCV etc.
   - Des supports DES, TDES128, 192bits, ECB, CBC, KCV etc.
