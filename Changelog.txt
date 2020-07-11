@@ -1,14 +1,16 @@
 Name:yingge
 
-ReleaseData=2020-05-10
+ReleaseData=2020-07-12
 VersionNum=V3.4
 
 Modify:
 	 1.Add Bit Map Page
 	 2.Fix Negative Number Dec To Hex Bug
+	 3.optimize PK and Cert DER Parse			
 
 修改记录：
 	 1.增加Bit Map功能
 	 2.修复负数DecToHex转换Bug
+	 3.优化公钥和证书解析的部分功能	
 
 
