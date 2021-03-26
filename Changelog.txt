@@ -1,16 +1,15 @@
 Name:yingge
 
-ReleaseData=2020-07-12
-VersionNum=V3.4
+ReleaseData=2021-03-07
+VersionNum=V3.5
 
 Modify:
-	 1.Add Bit Map Page
-	 2.Fix Negative Number Dec To Hex Bug
-	 3.optimize PK and Cert DER Parse			
+	1.支持文件路径在输入框作为文件输入。
+	2.大数支持逻辑运算。	
+	3.RSA支持公钥运算		
 
 修改记录：
-	 1.增加Bit Map功能
-	 2.修复负数DecToHex转换Bug
-	 3.优化公钥和证书解析的部分功能	
-
+	1. Support file path as file input.
+	2. Big numbers support logical operations.
+	3. RSA Public Key Encrypt
 

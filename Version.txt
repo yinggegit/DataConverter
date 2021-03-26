@@ -1,3 +1,3 @@
 [VERSION]
-ReleaseData=2020-07-12
-VersionNum=V3.4
+ReleaseData=2021-03-07
+VersionNum=V3.5
