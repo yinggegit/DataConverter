@@ -83,7 +83,7 @@ DataConverter is a powerful data processing and algorithmic tool
 ## 2.Algorithm 算法
   - AES 支持AES128，AES192，AES256 运算，支持ECB，CBC，CFB，OFB，KCV等模式
   - DES 支持DES、TDES128bits, TDES192bits运算，支持ECB，CBC，KCV等模式
-  - SM4 支持 ECB、CBC、KCV模式
+  - SM4 支持 ECB、CBC、CFB、OFB、KCV模式
   - MAC支持 DESMAC、CMAC、HMAC、AES MAC、 SM3-4MAC等
   - 其中 DESMAC 支持 X9.9、X9.19、 EMV、 CUP(China Union Pay)、 XOR等多种模式
   - CMAC 支持  TDES2Key， TDES3Key， AES128， AES192， AES256等
@@ -93,13 +93,13 @@ DataConverter is a powerful data processing and algorithmic tool
   - RSA (512-8192bits) PKCSV2， PKCSV1， Nopadding填充加解密， 可生成RSAKey， 签名和验签支持多种Hash算法。
   - ECDSA 支持SECP192-512，BP256-512，包括Bitcoin使用的SECP256K1,等数十种主流曲线，主流Hash算法的签名和验签
   - SM2  中国国家密码指定的ECC曲线，标准 加密、解密、签名、验签工具， 加解密同时 C1|C2|C3 和 C1|C3|C2 两种格式。
-  - Big Number，支持 Add、Dec、Sum、Mul、Div、Mod、Xor、Exp、RSA、Hex->Dec、Dec->Hex等
+  - Big Number，支持 Add、Dec、Sum、Mul、Div、Mod、Xor、Or、Exp、RSA、Hex->Dec、Dec->Hex等
   - Bit Map 支持32bits, 64bits, MSB, LSB, Display, Generate, Hex, Dec(Uint,int)
   - Padding 支持PKCS7，PKCSV1 ，ISO7816-4, X.923, 右边补零，左边补零等填充方式，生成指定字节的填充值
   -------
   - AES supports AES128, AES192, AES256 bits operation, ECB, CBC, CFB, OFB, KCV etc.
   - Des supports DES, TDES128, 192bits, ECB, CBC, KCV etc.
-  - SM4 supports ECB, CBC and KCV modes
+  - SM4 supports ECB, CBC , CFB , OFB and KCV modes
   - Mac supports DES MAC, CMAC, HMAC, AES MAC, SM3-4 MAC, etc.
   - Desmac supports X9.9, X9.19, EMV, CUP(China Union Pay), XOR etc.
   - CMAC supports TDES2key, TDES3key, AES128, AES192, AES256, etc.

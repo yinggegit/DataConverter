@@ -1,15 +1,15 @@
 Name:yingge
 
-ReleaseData=2021-03-07
-VersionNum=V3.5
-
-Modify:
-	1.支持文件路径在输入框作为文件输入。
-	2.大数支持逻辑运算。	
-	3.RSA支持公钥运算		
+ReleaseData=2021-11-06
+VersionNum=V3.6
 
 修改记录：
-	1. Support file path as file input.
-	2. Big numbers support logical operations.
-	3. RSA Public Key Encrypt
+	1.SM4增加CFB和OFB	
+	2.调整了RSA NoPadding运算方式		
+	3.调整了UI结构
+
+Modify:
+	1. SM4 add CFB and OFB 	
+	2. Adjusted RSA nopadding operation mode 		
+	3. Adjusted UI structure
 
