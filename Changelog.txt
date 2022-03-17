@@ -1,15 +1,10 @@
 Name:yingge
 
-ReleaseData=2021-11-06
-VersionNum=V3.6
-
+ReleaseData=2022-03-17
+VersionNum=V3.7
 修改记录：
-	1.SM4增加CFB和OFB	
-	2.调整了RSA NoPadding运算方式		
-	3.调整了UI结构
+	1.修正数据类型自动切换Hex问题	
 
 Modify:
-	1. SM4 add CFB and OFB 	
-	2. Adjusted RSA nopadding operation mode 		
-	3. Adjusted UI structure
+	1. Fixed Auto Switch to Hex Bug
 
