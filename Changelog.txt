@@ -1,10 +1,10 @@
 Name:yingge
 
-ReleaseData=2022-03-17
-VersionNum=V3.7
+ReleaseData=2024-01-01
+VersionNum=V4.2
 修改记录：
-	1.修正数据类型自动切换Hex问题	
+	1.修复大数运算时Hex模式不识别负号问题。	
 
 Modify:
-	1. Fixed Auto Switch to Hex Bug
+	1. Fix the issue of big number not recognizing negative sign.
 
